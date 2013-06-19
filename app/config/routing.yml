@@ -1,0 +1,4 @@
+eldar_blog:
+    resource: "@EldarBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
